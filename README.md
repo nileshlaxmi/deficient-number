@@ -10,7 +10,7 @@ Sum is 1 + 2 + 5 + 10 = 18 < 2 * 10
 
 ## Folders:
 
-* Validate-deficicent-number - Verify whether a given number is deficient or not.
+* Validate-deficient-number - Verify whether a given number is deficient or not.
 
 * find-all-deficient-number - Find all the deficient numbers in a range.
 
